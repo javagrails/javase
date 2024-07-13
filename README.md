@@ -1,3 +1,4 @@
-jBasic
-******
-   => abstract_vs_interface mac
+### Java SE
+*****
+   => Will Talk About [ Java Standard Edition ] or [ Core Java ]
+
